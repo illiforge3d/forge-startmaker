@@ -134,7 +134,7 @@ function CloudAd() {
 
       <div className="relative p-4">
         <div className="flex items-center gap-2.5" style={{ marginBottom: 16 }}>
-          <img src="/img/logos/learnhouse-dark.svg" alt="LearnHouse" className="h-3.5" />
+          <img src="/img/logos/learnhouse-dark.svg" alt="StartMaker" className="h-3.5" />
           <span
             className="text-[8px] font-bold uppercase tracking-wide text-white! px-1.5 py-px rounded"
             style={{
@@ -148,7 +148,7 @@ function CloudAd() {
           </span>
         </div>
         <p className="text-[12px] font-semibold text-neutral-900! leading-snug m-0!">
-          Try LearnHouse Cloud
+          Try StartMaker Cloud
         </p>
         <p className="mt-1.5 text-[10.5px] text-neutral-400! leading-relaxed m-0!">
           Managed hosting with automatic updates, backups, and scaling.

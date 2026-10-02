@@ -39,7 +39,7 @@ function Navbar() {
           <div className="lh-navbar-left">
             <Link href="/" className="lh-navbar-logo">
               {mounted ? (
-                <img src={logoSrc} alt="LearnHouse" />
+                <img src={logoSrc} alt="StartMaker" />
               ) : (
                 <div style={{ width: 100, height: 20 }} />
               )}

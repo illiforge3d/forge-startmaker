@@ -259,7 +259,7 @@ function DashLeftMenu() {
           ) : (
             <img
               src="/lrn-dash.svg"
-              alt="Learnhouse logo"
+              alt="StartMaker logo"
               className="h-8 w-8"
             />
           )}

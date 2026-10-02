@@ -10,19 +10,19 @@ import PostHogProvider from '../components/Analytics/PostHogProvider'
 
 export const metadata = {
   title: {
-    default: 'LearnHouse Docs',
-    template: '%s – LearnHouse Docs',
+    default: 'StartMaker Docs',
+    template: '%s – StartMaker Docs',
   },
   description:
-    'Official documentation for LearnHouse, the open-source learning management system (LMS). Guides for self-hosting, course creation, AI features, API reference, and more.',
+    'Official documentation for StartMaker, the open-source learning management system (LMS). Guides for self-hosting, course creation, AI features, API reference, and more.',
   keywords: [
-    'LearnHouse',
+    'StartMaker',
     'open source LMS',
     'learning management system',
     'self-hosted LMS',
     'course creation',
-    'LearnHouse documentation',
-    'LearnHouse docs',
+    'StartMaker documentation',
+    'StartMaker docs',
   ],
   metadataBase: new URL('https://docs.learnhouse.app'),
   robots: {
@@ -40,13 +40,13 @@ export const metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://docs.learnhouse.app',
-    siteName: 'LearnHouse Docs',
+    siteName: 'StartMaker Docs',
     description:
-      'Official documentation for LearnHouse, the open-source learning management system (LMS). Guides for self-hosting, course creation, AI features, API reference, and more.',
+      'Official documentation for StartMaker, the open-source learning management system (LMS). Guides for self-hosting, course creation, AI features, API reference, and more.',
     images: [
       {
         url: 'https://docs.learnhouse.app/img/pages/learnhouse-github.png',
-        alt: 'LearnHouse Docs',
+        alt: 'StartMaker Docs',
         width: 2051,
         height: 1016,
       },
